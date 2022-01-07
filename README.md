@@ -1,1 +1,1 @@
-# Detect_Offensive_Tweeets
+# Detect_offensive_tweets
